@@ -31,4 +31,4 @@ The code will be released soon.
 
 ## 🎥 Demo Video
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/kulddVW3FdI)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/Xq5YQaVPtAw)
