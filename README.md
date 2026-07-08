@@ -19,7 +19,7 @@
   Contributing authors: sonhongnguyen.researcher@gmail.com;
 </p>
 
-![teaser](figures/IGBF_framework.jpg)
+![teaser](figures/IGBR_framework.jpg)
 </div>
 
 
