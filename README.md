@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/python-3.12.2-orange)
 
 <p align="center">
-  <b>Hong-Son Nguyen<sup> and Thi-Ngoc-Hanh Le</b>
+  <b>Hong-Son Nguyen and Thi-Ngoc-Hanh Le</b>
 </p>
 
 <p align="center" style="font-size:14px;">
@@ -18,7 +18,7 @@
   Contributing authors: sonhongnguyen.researcher@gmail.com;
 </p>
 
-![teaser](figures/IGBR_framework.jpg)
+![teaser](figures/framework.jpg)
 </div>
 
 
